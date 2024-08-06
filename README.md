@@ -7,13 +7,17 @@ Project Link: https://github.com/sonalidoke11/SBA_307_HTML_CSS
 Technical Specifications
 ------------------------
 Website includes 
-1) homepage  - with header, footer, banner and body(Quick Links, Categories, Locations) section.
-2) About Page
-3) Login Page
-4) Register/Sign Up page
+1) Wireframe for project
+2) homepage  - with header, footer, banner and body(Quick Links, Categories, Locations) section.
+3) About Page
+4) Login Page
+5) Register/Sign Up page
+6) Images folder
+7) Css folder
+8) pages folder
 
 Header and footer being consistent on all pages.
-There are folders for css, images and pages.
+Added a favicon icon to tab title.
 
 HTML Requriements
 1) Have atleast  three pages - (homepage, about, login, register)
@@ -32,7 +36,8 @@ header, footer, section, nav,ul,li,h1,h2,br,hr,img,div,table,form,input,select, 
 
 CSS Requirements
 1) 
-	a) Inline: on homepage, sign_up, about, login page.
+	
+ 	a) Inline: on homepage, sign_up, about, login page.
 
 	b) Internal: sign_up, about, login page.
 
